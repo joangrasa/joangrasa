@@ -3,25 +3,33 @@
 
 📍 **Location:** Les Planes d'Hostoles  
 📧 **Email:** [joangrasa@gmail.com](mailto:joangrasa@gmail.com)  
-🔗 **LinkedIn:** [Joan Grasa](https://www.linkedin.com/in/joan-grasa)  
-👨‍💻 **GitHub:** [joangrasa](https://github.com/joangrasa)
+🔗 **LinkedIn:** [https://www.linkedin.com/in/joan-grasa](https://www.linkedin.com/in/joan-grasa)  
+👨‍💻 **GitHub:** [https://github.com/joangrasa](https://github.com/joangrasa)
 
 ### Academic Background 🎓
-- **Master’s in Data Science and Big Data** - IEBS School (Nov 2023 - Present)
+- **Master’s in Data Science and Big Data** - IEBS School (Nov 2023 - Nov 2024)
 - **C2 Level English Certificate** (2023)
-- **High School and Technological Baccalaureate** - IES Castell d’Estela (2007-2013)
 - **Bachelor’s in Mechanical Engineering** - UdG (2013-2018)
 - **Youth Work Course** - Escola Empordà (2016)
 
+### Tech Toolbox 🛠️
+- **Languages:** Python, SQL
+- **Data Analysis & Visualization Tools:** Jupyter Notebook, Power BI, Tableau
+- **Data Sciece & Machine Learning:** Scikit-Learn, TensorFlow, PyTorch
+- **Data Engineering & Storage:** Apache Spark, HDFS, MongoDB, MySQL, PostgreSQL
+- **Streaming Platforms:** Apache Kafka
+- **Web Scraping:** Beautiful Soup, Scrapy, Selenium
+- **Cloud & APIs:** Azure, AWS, RESTful APIs
+
 ### Work Experience 💼
 - **Intern Engineer** - SUNO Energía (Feb 2017 - May 2017)  
-  - Created and modified technical plans in AutoCAD.
-  - Measured CAD plans with Arquimedes.
-  - Developed 3D files using Medusa CAD and AutoCAD 3D.
-  - Generated project budgets with Arquimedes.
-  - Conducted energy simulations for buildings using DesignBuilder and HULC.
+  - Create and modifie technical plans in AutoCAD.
+  - Measure CAD plans with Arquimedes.
+  - Develope 3D files using Medusa CAD and AutoCAD 3D.
+  - Generate project budgets with Arquimedes.
+  - Conducte energy simulations for buildings using DesignBuilder and HULC.
 
-- **Youth Camp Counselor** - Casal de les Planes d’Hostoles  
+- **Youth Camp Tutor** - Casal de les Planes d’Hostoles  
   (Summers of 2017 and 2018)
 
 - **Private Tutor (In-person and Online)** - Self-Employed  
@@ -29,7 +37,7 @@
 
 - **Waiter** - La Curenya Restaurant (Sept 2018 - May 2019)
 
-- **Waiter** - Hjørnet Restaurant, Denmark (June 2019 - Sept 2019)
+- **Waiter** - Hjørnet Restaurant, Denmark (June 2019 - Nov 2019)
 
 - **Environmental Guide** - Brugent Protected Space (Mar 2021 - Sept 2021)
 
@@ -37,16 +45,13 @@
 
 ### Volunteering & Other Activities 🌍
 - **Be Sinor Cultural Center, Greece** (Sept 2016)  
-  Led a free-time education project for children in a refugee camp, primarily Kurdish.
+  Volunteer in an education project for children in a refugee camp, primarily Kurdish.
 
 - **Ananda Suruci Retreat Center, Taiwan** (Mar 2018 - June 2018)  
-  Assisted in facility maintenance, planned and installed water systems for outdoor showers and toilets, and created a WordPress website.
-
-- **Environmental Education at Luz Serena, Tenerife** (Dec 2019 - Mar 2020)  
-  Led a volunteer team on an organic farm.
+  Assist in facility maintenance, planned and installed water systems for outdoor showers and toilets, and created a WordPress website.
 
 - **Erasmus for Young Entrepreneurs, Portugal** (June 2020 - Nov 2020)  
-  Led a volunteer team at a retreat center, supported maintenance, and helped with the setup of a solar self-consumption system.
+  Lead a volunteer team at a retreat center, support maintenance, and help with the setup of a solar self-consumption system.
 
 - **Morro Encantado Project, Brazil** (Nov 2021 - July 2022)  
-  Led a team of volunteer English teachers.
+  Lead a team of volunteer English teachers.
