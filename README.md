@@ -29,18 +29,11 @@
   - Generate project budgets with Arquimedes.
   - Conducte energy simulations for buildings using DesignBuilder and HULC.
 
-- **Youth Camp Tutor** - Casal de les Planes d’Hostoles  
-  (Summers of 2017 and 2018)
-
-- **Private Tutor (In-person and Online)** - Self-Employed  
-  (Sept 2017 - Present)
-
+- **Youth Camp Tutor** - Casal de les Planes d’Hostoles (Summers of 2017 and 2018)
+- **Private Tutor (In-person and Online)** - Self-Employed (Sept 2017 - Present)
 - **Waiter** - La Curenya Restaurant (Sept 2018 - May 2019)
-
 - **Waiter** - Hjørnet Restaurant, Denmark (June 2019 - Nov 2019)
-
 - **Environmental Guide** - Brugent Protected Space (Mar 2021 - Sept 2021)
-
 - **School Lunch Monitor** - Les Planes d’Hostoles School (Sept 2022 - June 2022)
 
 ### Volunteering & Other Activities 🌍
