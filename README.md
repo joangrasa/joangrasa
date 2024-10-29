@@ -7,10 +7,10 @@
 👨‍💻 **GitHub:** [https://github.com/joangrasa](https://github.com/joangrasa)
 
 ### Academic Background 🎓
-- **Master’s in Data Science and Big Data** - IEBS School (Nov 2023 - Nov 2024)
+- **Master’s in Data Science and Big Data** - IEBS School (Oct 2023 - Oct 2024)
 - **C2 Level English Certificate** (2023)
 - **Bachelor’s in Mechanical Engineering** - UdG (2013-2018)
-- **Youth Work Course** - Escola Empordà (2016)
+- **Youth Tutor Course** - Escola Empordà (2016)
 
 ### Tech Toolbox 🛠️
 - **Languages:** Python, SQL
