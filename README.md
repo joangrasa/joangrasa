@@ -19,7 +19,8 @@
 - **Data Engineering & Storage:** Apache Spark, HDFS, MongoDB, MySQL, PostgreSQL
 - **Streaming Platforms:** Apache Kafka
 - **Web Scraping:** Beautiful Soup, Scrapy, Selenium
-- **Cloud & APIs:** Azure, AWS, RESTful APIs
+- **Cloud & APIs:** Azure, AWS, RESTful 
+- **Agile Methodologies & Collaboration Tools:** Scrum, Kanban, Agile, Asana, Jira, Slack, Trello
 
 ### Work Experience 💼
 - **Intern Engineer** - SUNO Energía (Feb 2017 - May 2017)  
