@@ -17,7 +17,7 @@
 - **Data Analysis & Visualization Tools:** Jupyter Notebook, Power BI, Tableau
 - **Data Sciece & Machine Learning:** Scikit-Learn, TensorFlow, PyTorch
 - **Data Engineering & Storage:** Apache Spark, HDFS, MongoDB, MySQL, PostgreSQL
-- **Backend & Frontend:** Basic level of HTML, CSS, JavaScript, React, Node.js, Python (Django)
+- **Backend & Frontend:** Basic level of HTML, CSS, JavaScript, React, Node.js, Django
 - **Streaming Platforms:** Apache Kafka
 - **Web Scraping:** Beautiful Soup, Scrapy, Selenium
 - **Cloud & APIs:** Azure, AWS, RESTful 
