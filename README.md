@@ -20,7 +20,7 @@
 - **Streaming Platforms:** Apache Kafka
 - **Web Scraping:** Beautiful Soup, Scrapy, Selenium
 - **Cloud & APIs:** Azure, AWS, RESTful 
-- **Agile Methodologies & Collaboration Tools:** Scrum, Kanban, Agile, Asana, Jira, Slack, Trello
+- **Agile Methodologies & Collaboration Tools:** Scrum, Kanban, Agile, Lean, Asana, Jira, Trello, Slack, Teams 
 
 ### Work Experience 💼
 - **Intern Engineer** - SUNO Energía (Feb 2017 - May 2017)  
