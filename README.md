@@ -19,7 +19,7 @@ Backend Developer with a strong background in **Mechanical Engineering** and **D
 
 ## 🎮 Side Projects
 
-- **[The Sphinx](https://trickster-chat.vercel.app)** — a mythic oracle chatbot. Prove your wit through riddles and trials, then receive a prophecy. Built solo end-to-end: React frontend, Vercel serverless backend, Groq LLM.
+- **[The Sphinx](https://ask-the-sphinx.vercel.app)** — a mythic oracle chatbot. Prove your wit through riddles and trials, then receive a prophecy. Built solo end-to-end: React frontend, Vercel serverless backend, Groq LLM.
 
 ---
 
