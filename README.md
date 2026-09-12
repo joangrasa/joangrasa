@@ -1,52 +1,56 @@
-# 👋 Hi, I'm Joan!
-## 🚀 Data Science and Mechanical Engineering Background
+# 👋 Hi, I'm Joan Grasa Güells
 
-📍 **Location:** Les Planes d'Hostoles  
+Backend Developer with a strong background in **Mechanical Engineering** and **Data Science**. Currently building scalable, multi-tenant FinTech architectures and AI-driven workflows at **Fundcraft**.
+
+📍 **Location:** Girona, Spain *(Open to Remote or Hybrid: Girona / Barcelona — EU)*  
 📧 **Email:** [joangrasa@gmail.com](mailto:joangrasa@gmail.com)  
-🔗 **LinkedIn:** [https://www.linkedin.com/in/joan-grasa](https://www.linkedin.com/in/joan-grasa)  
-👨‍💻 **GitHub:** [https://github.com/joangrasa](https://github.com/joangrasa)
+💼 **LinkedIn:** [linkedin.com/in/joan-grasa](https://www.linkedin.com/in/joan-grasa)  
+🖥️ **GitHub:** [github.com/joangrasa](https://github.com/joangrasa)
 
-### Academic Background 🎓
-- **Master’s in Data Science and Big Data** - IEBS School (Oct 2023 - Oct 2024)
-- **C2 Level English Certificate** (2023)
-- **Bachelor’s in Mechanical Engineering** - UdG (2013-2018)
-- **Youth Tutor Course** - Escola Empordà (2016)
+---
 
-### Tech Toolbox 🛠️
-- **Languages:** Python, SQL
-- **Data Analysis & Visualization Tools:** Jupyter Notebook, Power BI, Tableau
-- **Data Sciece & Machine Learning:** Scikit-Learn, TensorFlow, PyTorch
-- **Data Engineering & Storage:** Apache Spark, HDFS, MongoDB, MySQL, PostgreSQL
-- **Backend & Frontend:** Basic level of HTML, CSS, JavaScript, React, Node.js, Django
-- **Streaming Platforms:** Apache Kafka
-- **Web Scraping:** Beautiful Soup, Scrapy, Selenium
-- **Cloud & APIs:** Azure, AWS, RESTful 
-- **Agile Methodologies & Collaboration Tools:** Scrum, Kanban, Lean, Asana, Jira, Trello, Slack, Teams 
+## ⚡ About Me
 
-### Work Experience 💼
-- **Intern Engineer** - SUNO Energía (Feb 2017 - May 2017)  
-  - Create and modifie technical plans in AutoCAD.
-  - Measure CAD plans with Arquimedes.
-  - Develope 3D files using Medusa CAD and AutoCAD 3D.
-  - Generate project budgets with Arquimedes.
-  - Conducte energy simulations for buildings using DesignBuilder and HULC.
+- 🛠️ **Backend Specialist:** Skilled in Python, Django, FastAPI, and PostgreSQL, focusing on secure, multi-tenant architectures and high-concurrency systems.
+- 🤖 **AI-Driven Engineering:** Experienced in building custom agentic AI tools with Anthropic Claude and AWS Bedrock, along with AI-orchestrated development workflows (Claude Code).
+- ⚙️ **Analytical & Production-Tested:** Transitioned from Mechanical Engineering to Data Science to full-stack backend development, bringing end-to-end ownership to complex systems.
 
-- **Youth Camp Tutor** - Casal de les Planes d’Hostoles (Summers of 2017 and 2018)
-- **Private Tutor (In-person and Online)** - Self-Employed (Sept 2017 - Present)
-- **Waiter** - La Curenya Restaurant (Sept 2018 - May 2019)
-- **Waiter** - Hjørnet Restaurant, Denmark (June 2019 - Nov 2019)
-- **Environmental Guide** - Brugent Protected Space (Mar 2021 - Sept 2021)
-- **School Lunch Monitor** - Les Planes d’Hostoles School (Sept 2022 - June 2022)
+---
 
-### Volunteering & Other Activities 🌍
-- **Be Sinor Cultural Center, Greece** (Sept 2016)  
-  Volunteer in an education project for children in a refugee camp, primarily Kurdish.
+## 🛠️ Tech Toolbox
 
-- **Ananda Suruci Retreat Center, Taiwan** (Mar 2018 - June 2018)  
-  Assist in facility maintenance, planned and installed water systems for outdoor showers and toilets, and created a WordPress website.
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Backend & Data** | Python, Django, Django REST Framework, FastAPI, PostgreSQL, SQL, MongoDB, Django ORM, Row-Level Security |
+| **AI & LLMs** | Agentic AI, Anthropic Claude, AWS Bedrock, Claude Code, Prompt Engineering |
+| **Asynchronous & Pipelines** | Celery, RabbitMQ, Apache Airflow |
+| **Infrastructure & Tools** | Docker, AWS (S3), Git, Jira, Linux |
+| **Testing & Practices** | pytest, Clean Architecture, RESTful API Design, Agile / Scrum |
 
-- **Erasmus for Young Entrepreneurs, Portugal** (June 2020 - Nov 2020)  
-  Lead a volunteer team at a retreat center, support maintenance, and help with the setup of a solar self-consumption system.
+---
 
-- **Morro Encantado Project, Brazil** (Nov 2021 - July 2022)  
-  Lead a team of volunteer English teachers.
+## 💼 Professional Experience
+
+### **Backend Developer** — *Fundcraft (FinTech)*
+*Dec 2024 – Present | Girona, Spain (Hybrid)*
+
+- **Multi-Tenant Architecture:** Designed PostgreSQL (SQL) and MongoDB data models utilizing Django ORM and Row-Level Security for strict data isolation across private investment funds.
+- **API & Workflow Engineering:** Developed RESTful APIs and managed distributed background processing using Celery and RabbitMQ.
+- **End-to-End Financial Reporting:** Architected a custom financial report end-to-end using Apache Airflow DAGs for data orchestration, backend storage services, and frontend UI delivery.
+- **Agentic AI Tooling:** Built and shipped production AI tools using AWS Bedrock and Claude, including an agentic assistant that collects support context and interfaces with the Jira API.
+- **Quality & Process:** Implemented testing suites with `pytest` and developed optimized developer workflows using Claude Code.
+
+---
+
+## 🎓 Education & Background
+
+- **Master’s Degree in Data Science & Big Data** — IEBS Business School *(Oct 2023 – Oct 2024)*
+- **Bachelor’s Degree in Mechanical Engineering** — Universitat de Girona *(2013 – 2018)*
+- **International Projects:** Directed sustainability, solar off-grid, and facility infrastructure projects across Brazil, Taiwan, and Portugal within cross-cultural teams.
+
+---
+
+## 💬 Languages
+
+- **Catalan / Spanish:** Native
+- **English:** Full Professional Proficiency (C2 Certified)
